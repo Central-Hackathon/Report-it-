@@ -1,0 +1,68 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="HvYI^I0RunZYS+nIsrf5" x="517" y="-50">
+    <mutation component_type="Button" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="SY]EY5ogsCF`yVoI`|y[">
+        <value name="SCREEN">
+          <block type="text" id="EArnIjdnPC28wr?7jG`]">
+            <field name="TEXT">fire</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="2}7xF+n{Itz^{.qB%(sz" x="568" y="60">
+    <mutation component_type="Button" instance_name="police" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">police</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="D826w$^ESAL^d}h4~p$?">
+        <value name="SCREEN">
+          <block type="text" id="4I$L|D8G35%J2MV6qfZ)">
+            <field name="TEXT">police</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="@[Td$6`X-w?@hUzR-B_3" x="475" y="145">
+    <mutation component_type="Button" instance_name="Button4" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button4</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="Q9b~@ej[ga)C?RHX:2+3">
+        <value name="SCREEN">
+          <block type="text" id="13!12d6*;tJD#ODAlzQV">
+            <field name="TEXT">ekav</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="Hhzl!!?9sx-4JTeTw0BM" x="534" y="203">
+    <mutation component_type="Button" instance_name="Button5" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button5</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="WPfc9XGK(/}Otngx2JHZ">
+        <value name="SCREEN">
+          <block type="text" id="NlM%H-;w5yeYHD5`cSG2">
+            <field name="TEXT">info</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="e1~Z(yNKJ~K339K-sAo/" x="427" y="355">
+    <mutation component_type="Button" instance_name="Button6" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button6</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="#^BzeQ1U|vr?QECMF_5X">
+        <value name="SCREEN">
+          <block type="text" id="]#;sJ8CH$2+%Jm!74d2p">
+            <field name="TEXT">tips</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="160" language-version="20"></yacodeblocks>
+</xml>

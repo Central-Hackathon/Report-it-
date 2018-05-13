@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["app.thunkable.com"],"YaVersion":"160","Source":"Form","Properties":{"$Name":"info","$Type":"Form","$Version":"20","AppName":"alarmsystem","ScreenOrientation":"portrait","Title":"\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2","Uuid":"0","$Components":[{"$Name":"Image1","$Type":"Image","$Version":"3","Height":"90","Picture":"32349553_10211572782263889_5498391779147251712_n.png","Uuid":"-123916874"},{"$Name":"Label1","$Type":"Label","$Version":"4","Width":"230","Uuid":"2019082450"},{"$Name":"Image2","$Type":"Image","$Version":"3","Height":"300","Picture":"32314079_10211572452815653_6085631932995993600_n.png","Uuid":"-1826530371"}]}}
+|#
